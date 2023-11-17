@@ -1,0 +1,13 @@
+{
+    "success": {
+        "userAdded": "User Data Added Successfully",
+        "usersDataFetched": "Users data retrieved successfully",
+        "userDataFetched":"User data retrieved successfully",
+        "userUpdated": "User data updated successfully",
+        "userDeleted": "User Deleted"        
+    },
+    "error": {
+        "userNotFound": "User not found",
+        "notSufficient": "Data is not not sufficient to process"
+    }
+}
